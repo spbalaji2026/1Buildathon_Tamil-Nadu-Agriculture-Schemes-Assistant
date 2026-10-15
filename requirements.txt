@@ -1,0 +1,13 @@
+requests
+beautifulsoup4
+pandas
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+openai
+faiss-cpu
+fastapi
+uvicorn
+streamlit
+python-dotenv

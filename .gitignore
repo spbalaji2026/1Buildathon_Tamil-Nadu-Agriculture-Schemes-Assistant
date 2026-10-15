@@ -1,0 +1,7 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.streamlit/
+data/raw_page.html
+data/raw_api_response.json
